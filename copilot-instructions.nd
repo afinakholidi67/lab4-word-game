@@ -1,0 +1,11 @@
+description: Copilot instructions
+
+This repository requires that any Copilot/AI assistant read and follow the directives
+found in .github/agents/test-journal-logger.agent.md before taking actions.
+
+Required steps for agents:
+- Load the file [.github/agents/test-journal-logger.agent.md](.github/agents/test-journal-logger.agent.md).
+- Follow its journaling and execution directives exactly.
+- If the file cannot be read or its directives are unclear, request clarification and do not proceed.
+
+Failure to follow the above means the agent must pause and ask the repository maintainer for guidance.
