@@ -1,4 +1,13 @@
 JOURNAL.md
+### **New Interaction**
+- **Date**: 04-06-2026 23:21
+- **User**: afina.kholidi@epita.fr
+- **Prompt**: User asked: "looking through my entire lab folder, is everything in order?" and I performed various checks on the files, ran tests, checked git status, etc.
+- **CoPilot Mode**: Ask
+- **CoPilot Model**: Grok Code Fast 1
+- **Changes Made**: No changes made; user performed checks on files, ran tests, and checked git status.
+- **Context and Reasons for Changes**: The user was verifying the state of their lab folder to ensure everything is in order, including file integrity, test results, and version control status.
+- **My Observations**:
 This file serves as a comprehensive log of all prompts, responses, changes made, and reflections during the development process. Each entry is listed in reverse chronological order, with the most recent interactions at the top.
 
 2026-03-12
